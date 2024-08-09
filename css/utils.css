@@ -17,8 +17,11 @@
 	--font-weight-extrabold: 800;
 }
 
-.font-weight-semibold {
+.font-semibold {
 	font-weight: var(--font-weight-semibold);
+}
+.font-extrabold {
+	font-weight: var(--font-weight-extrabold);
 }
 
 .text-gray-500 {
